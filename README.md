@@ -1,6 +1,6 @@
-# Kalkulator-ku
+# KALKULATOR-KU
 <p>KALKULATOR-KU adalah program kalkulator sederhana dengan menggunakan bahasa pemrograman Python.</p>
-<h3>Cara menginstall Kalkulator-ku</h3>
+<h3>Cara menginstal</h3>
 <p><code>apt-get update</code></p>
 <p><code>apt-get upgrade</code></p>
 <p><code>apt-get install python3</code></p>
