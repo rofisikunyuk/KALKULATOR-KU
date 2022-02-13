@@ -9,7 +9,7 @@
 <p>6. <code>cd KALKULATOR-KU</code></p>
 <p>7. <code>python3 KALKULATOR.py</code></p>
 <p>Screenshot</p>
-<img src="https://github.com/rofisikunyuk/KALKULATOR-KU/blob/main/Screenshot/Screenshot%20(213).png" width="" h300eight="270">
+<img src="https://github.com/rofisikunyuk/KALKULATOR-KU/blob/main/Screenshot/Screenshot%20(223).png" width="" h300eight="270">
 
 
 
